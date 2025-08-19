@@ -6,7 +6,6 @@ It supports student registration, login (with Google OAuth), profile management,
 ---
 
 ## 📂 Project Structure
-
 student_portal/
 │── assets/
 │ ├── css/
@@ -15,7 +14,6 @@ student_portal/
 │ │ └── 1.png
 │ └── js/
 │ └── script.js
-│
 │── uploads/ # Uploaded student images
 │── add_student.php # Add new student
 │── config.php # Database configuration
@@ -30,8 +28,6 @@ student_portal/
 │── register.php # Registration page
 │── students.php # Students listing page
 │── Readme.md # Project documentation
-
-
 
 ---
 
